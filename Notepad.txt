@@ -1,0 +1,19 @@
+Andrew Karpathy
+
+
+
+
+Need a course that implements Regression/Classification Models using optimization algorithms for model parameters and 
+grid search/random search for Hyperparameters optimization, 
+regularization to overcome overfitting .
+
+
+
+Include Parallel Processing for Parallel Computing
+
+3528517
+
+
+ 
+
+
